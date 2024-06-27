@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm OCAYA ISAAC</h1>
-<h3 align="center">Hallo allemaal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ocayaisaac&label=Profile%20views&color=0e75b6&style=flat" alt="ocayaisaac" /> </p>
 
